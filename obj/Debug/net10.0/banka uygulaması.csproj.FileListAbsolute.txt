@@ -1,0 +1,14 @@
+C:\Users\Muhammed\Desktop\banka uygulaması\bin\Debug\net10.0\banka uygulaması.exe
+C:\Users\Muhammed\Desktop\banka uygulaması\bin\Debug\net10.0\banka uygulaması.deps.json
+C:\Users\Muhammed\Desktop\banka uygulaması\bin\Debug\net10.0\banka uygulaması.runtimeconfig.json
+C:\Users\Muhammed\Desktop\banka uygulaması\bin\Debug\net10.0\banka uygulaması.dll
+C:\Users\Muhammed\Desktop\banka uygulaması\bin\Debug\net10.0\banka uygulaması.pdb
+C:\Users\Muhammed\Desktop\banka uygulaması\obj\Debug\net10.0\banka uygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammed\Desktop\banka uygulaması\obj\Debug\net10.0\banka uygulaması.AssemblyInfoInputs.cache
+C:\Users\Muhammed\Desktop\banka uygulaması\obj\Debug\net10.0\banka uygulaması.AssemblyInfo.cs
+C:\Users\Muhammed\Desktop\banka uygulaması\obj\Debug\net10.0\banka uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed\Desktop\banka uygulaması\obj\Debug\net10.0\banka uygulaması.dll
+C:\Users\Muhammed\Desktop\banka uygulaması\obj\Debug\net10.0\refint\banka uygulaması.dll
+C:\Users\Muhammed\Desktop\banka uygulaması\obj\Debug\net10.0\banka uygulaması.pdb
+C:\Users\Muhammed\Desktop\banka uygulaması\obj\Debug\net10.0\banka uygulaması.genruntimeconfig.cache
+C:\Users\Muhammed\Desktop\banka uygulaması\obj\Debug\net10.0\ref\banka uygulaması.dll
